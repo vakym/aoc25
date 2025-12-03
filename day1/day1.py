@@ -1,7 +1,4 @@
 
-import math
-
-
 def zero_cnt(str_pos: int, instruction: str) -> int:
     zero_count = 0
     position = str_pos
