@@ -8,7 +8,7 @@
             "name": "Run main.py",
             "type": "python",
             "request": "launch",
-            "module": "day3.main",
+            "module": "day4.main",
             "cwd": "${workspaceFolder}"
         }
     ]
